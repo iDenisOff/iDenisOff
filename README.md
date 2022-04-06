@@ -6,7 +6,7 @@ Frontend Developer from Russia.
 - I’m working as a Software Engineer and contributing to frontend for building web applications.
 - Exploring Technical Content Writing.
 - In my free time, I solve problems on GeeksforGeeks and read tech articles.
-- Text me: [![Telegram Badge](https://img.shields.io/badge/-@iDenisOff-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ddaFrolov)
+- Text me: [![Telegram Badge](https://img.shields.io/badge/-@iDenisOff-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/iDenisOff)
 
 ---
 
